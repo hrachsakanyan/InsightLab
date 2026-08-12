@@ -212,7 +212,7 @@ referral hit rate rather than a population prevalence.
 - **Underpowered subgroups** — 193 women total, 15 in the oldest band; Switzerland
   contributes only 8 non-diseased patients.
 
-## If this continued
+## If this continued 
 
 Model with **leave-one-site-out validation** — a random split leaks site structure.
 Formally test whether the exercise-test effects are homogeneous across hospitals. And
