@@ -1,6 +1,6 @@
 # 🔎 InsightLab — Who actually has heart disease, and can we trust the data that says so?
 
-An end-to-end exploratory data analysis of the **UCI Heart Disease** databases:
+An end-to-end exploratory data analysis of the **UCI Heart Disease** databases: 
 918 patients, four hospitals, thirteen clinical measurements, one binary question.
 
 **→ [Read the notebook](notebooks/eda.ipynb)** · [Dataset card](DATASET_CARD.md)
