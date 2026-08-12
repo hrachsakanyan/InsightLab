@@ -72,7 +72,7 @@ VA almost never performed fluoroscopy (`ca` 99% missing); Switzerland skipped fa
 blood sugar for 61% of patients; Long Beach VA is missing ~28% of the entire exercise
 test block together.
 
-### 3. `dropna()` would silently turn this into a Cleveland-only study
+### 3. `dropna()` would silently turn this into a Cleveland-only study 
 
 ![Completeness cascade](figures/03_completeness_cascade.png)
 
