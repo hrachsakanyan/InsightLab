@@ -63,7 +63,7 @@ with `restecg`, meaning the four hospitals graded resting ECGs differently. A mo
 given these columns without `site` will reconstruct it and partly learn *"which
 hospital is this?"* instead of *"is this patient sick?"*
 
-### 2. Missing data is a property of the hospital, not the variable
+### 2. Missing data is a property of the hospital, not the variable 
 
 ![Missingness by site](figures/01_missingness_by_site.png)
 
