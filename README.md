@@ -135,7 +135,7 @@ and every sub-3:1 slot carries direct value labels as relief.
 
 ---
 
-## Repository layout 
+## Repository layout  
 
 ```
 InsightLab/
