@@ -199,7 +199,7 @@ referral hit rate rather than a population prevalence.
 
 ---
 
-## Limitations
+## Limitations 
 
 - **Not a general population** — every patient was referred for angiography.
 - **Collected 1988–1991** — diagnostic thresholds, imaging and treatment have moved.
