@@ -20,7 +20,7 @@ measurement — it is a missing value wearing a number's clothes, and it is the 
 recorded" code for two of the four hospitals. Because those hospitals are also the
 *sickest* in the dataset, the fake zeros land almost entirely in the diseased group:
 
-| | n | median (healthy → diseased) | Cliff's δ | Reads as |
+| | n | median (healthy → diseased) | Cliff's δ | Reads as | 
 |---|---|---|---|---|
 | Zeros kept as data | 890 | 228 → 218 mg/dl | **−0.158** | cholesterol is *protective* (p = 4.9e-05) |
 | Zeros treated as missing | 717 | 233 → 248 mg/dl | **+0.147** | cholesterol is a *risk factor* (p = 6e-04) |
