@@ -48,7 +48,7 @@ would have caught it — only looking at the data would.
 
 ---
 
-## Key findings
+## Key findings 
 
 ### 1. The four hospitals are not interchangeable
 
