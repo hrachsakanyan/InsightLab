@@ -11,7 +11,7 @@ support one.
 
 ---
 
-## The headline finding 
+## The headline finding
 
 **One cleaning decision reverses a published-looking result.**  
 
