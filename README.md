@@ -180,7 +180,7 @@ Tested on Python 3.11 with pandas 2.x.
 
 ---
 
-## Dataset
+## Dataset 
 
 **UCI Heart Disease** (dataset 45), CC BY 4.0. Four databases collected 1988–1991 at
 the Cleveland Clinic, the Hungarian Institute of Cardiology, University Hospitals
