@@ -35,7 +35,7 @@ would have caught it — only looking at the data would.
 
 ---
 
-## Questions asked
+## Questions asked 
 
 | # | Question | Answer |
 |---|---|---|
