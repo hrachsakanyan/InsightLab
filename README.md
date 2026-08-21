@@ -11,9 +11,9 @@ support one.
 
 ---
 
-## The headline finding
+## The headline finding 
 
-**One cleaning decision reverses a published-looking result.**
+**One cleaning decision reverses a published-looking result.** 
 
 172 patients in this dataset have a serum cholesterol of `0 mg/dl`. That is not a
 measurement — it is a missing value wearing a number's clothes, and it is the "not
