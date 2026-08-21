@@ -99,7 +99,7 @@ Resting blood pressure has an **identical median** in both outcome groups. Meanw
 `thal` (V = 0.50) is 53% missing. The best signals come from invasive follow-up tests
 that were only ordered for already-suspicious patients, largely at one hospital.
 
-### 5. How a patient entered the dataset is a variable, and it is not recorded 
+### 5. How a patient entered the dataset is a variable, and it is not recorded
 
 Patients reporting **no chest pain at all** have a 79.0% disease rate. Patients with
 atypical angina have **13.9%**.
