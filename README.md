@@ -83,7 +83,7 @@ and shifts the base rate from 55% to 47% — without printing a warning.
 This project therefore **does not impute**. Every statistic is computed on the rows
 where the relevant variable is present, and every table reports its own `n`.
 
-### 4. Predictive power and availability pull in opposite directions 
+### 4. Predictive power and availability pull in opposite directions
 
 ![Association ranking](figures/08_association_ranking.png)
 
