@@ -111,7 +111,7 @@ asymptomatic group is pre-selected for high suspicion.
 
 ---
 
-## Methodology 
+## Methodology
 
 **Rank-based statistics throughout.** `chol` (skew 1.31) and `oldpeak` (zero-inflated)
 are not normal, so the notebook uses Mann-Whitney U, Spearman ρ, and Cliff's δ rather
